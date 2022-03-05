@@ -56,7 +56,7 @@
     <footer>
       <hr>
       <div>perhekalenteri by Minä</div>
-      <div>perhekalenteri by Minä</div>
+      
     </footer>
   </body>
 </html>
