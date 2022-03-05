@@ -23,7 +23,7 @@ body {
 }
 
 h1 {
-  font-family: '<?php echo $headerfonts[$header]['name']?>', sans-serif;
+  font-family: '<?php echo $headerfonts[$header]['name']?>',Titan One;
   font-size: 30mm;
   text-align: center;
   text-transform: capitalize;
