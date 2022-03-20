@@ -134,6 +134,11 @@
       "name"  => "Vadelmat",
       "color" => "#faa7b9",
       "image" => "backgrounds/vadelmat.jpg"
+    ),
+    "Takkatuli" => array(
+      "name"  => "Takkatuli",
+      "color" => "#faa7b9",
+      "image" => "backgrounds/Takkatuli.jpg"
     )
   );
 
